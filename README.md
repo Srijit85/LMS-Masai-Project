@@ -8,4 +8,6 @@
 the project for both are done in step wise have each step for each definit fuctions, the steps can be found in the table of 
 CONTENTS
 
+#table of Contents
+
 
